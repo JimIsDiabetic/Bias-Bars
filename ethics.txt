@@ -1,0 +1,39 @@
+Please write your response to the reflective ethics question here.
+
+1. LOADED WORDS
+    Funny:
+        Men:
+            Low: 130
+            Medium: 315
+            High: 1,101
+        Women:
+            Low: 50
+            Medium: 80
+            High: 650
+    Smart:
+        Men:
+            Low: 100
+            Medium: 130
+            High: 331
+        Women:
+            Low: 50
+            Medium: 30
+            High: 200
+    Cool:
+        Men:
+            Low: 25
+            Medium: 80
+            High: 363
+        Women:
+            Low: 15
+            Medium: 50
+            High: 210
+2. BIAS ANALYSIS
+    1. Yes, ratings are biased by gender.
+    2. Funny, Smart, and Cool all showed a bias in favor for men.
+3. BIAS "FAIRNESS"
+    It would be unfair to assume that, just because these words are used, that they are immediately better than another candidate.
+4. WHAT DO TEACHERS DESERVE TO KNOW
+    They deserve to know what words were used to represent them. A programmer could implement this by adding aonther filter (besides the search option), to search for words describing a specific person.
+5. UNDERREPRESENTED REVIEWS
+    If a student were to leave a review without a comment, then those students wouldn't be represented in these graphs.
